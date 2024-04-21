@@ -10,7 +10,9 @@
 - Creating visualizations to gain insights into the layoff data.  
 - Utilizing plots such as bar charts, line charts, and choropleth maps to represent the data effectively.
 - Developing an interactive dashboard using tools like Streamlit
-- Allowing users to explore the layoff data dynamically through dropdowns, sliders, or search bars   
+- Allowing users to explore the layoff data dynamically through dropdowns, sliders, or search bars
+
+  Link: https://layoff-data-analysis.streamlit.app/ 
  
 ----------------------------------------------------------------
 
