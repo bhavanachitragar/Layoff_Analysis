@@ -14,3 +14,5 @@
  
 ----------------------------------------------------------------
 
+![Screenshot 2024-04-21 135228](https://github.com/bhavanachitragar/Layoff_Analysis/assets/91766461/5587cfd1-ebfe-4761-8b50-7965e903dd61)
+![Screenshot 2024-04-21 135202](https://github.com/bhavanachitragar/Layoff_Analysis/assets/91766461/b741ed51-bb4f-4530-9658-269015f77342)
